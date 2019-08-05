@@ -14,7 +14,7 @@ For more information about the course, please check the [handbook](https://handb
 
 | Tutorial | Topic | Time |
 | ------ | ------ |-----|
-| [Tutorial 1]() | Setting up environment and Programming Practice  | 5 Aug 2019 - 9 Aug 2019
+| [Tutorial 1](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/comp90041_tute1Slides.pdf) | Setting up environment and Programming Practice  | 5 Aug 2019 - 9 Aug 2019
 | [Tutorial 2]() | TBD |
 | [Tutorial 3]() | TBD |
 | [Tutorial 4]() | TBD |
