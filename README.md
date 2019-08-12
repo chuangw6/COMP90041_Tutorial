@@ -5,7 +5,7 @@ This repository contains tutorial slides of the course [COMP90041](https://handb
 ### **Author**
 ---
 The slides are developed by Chuang Wang, tutor for COMP90041 Semester2 2019\
-Chuang Wang LinkedIn:www.linkedin.com/in/chuangw
+Chuang Wang LinkedIn:https://www.linkedin.com/in/chuangw
 ### **Course Info**
 ---
 For more information about the course, please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90041) for the course.
@@ -15,7 +15,7 @@ For more information about the course, please check the [handbook](https://handb
 | Tutorial | Topic | Time |
 | ------ | ------ |-----|
 | [Tutorial 1](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/comp90041_tute1Slides.pdf) | Setting up environment and Programming Practice  | 5 Aug 2019 - 9 Aug 2019
-| [Tutorial 2]() | TBD |
+| [Tutorial 2]() | Data Types & Input/Output | 12 Aug 2019 - 16 Aug 2019
 | [Tutorial 3]() | TBD |
 | [Tutorial 4]() | TBD |
 | [Tutorial 5]() | TBD |
