@@ -8,7 +8,8 @@ The slides are developed by Chuang Wang, tutor for COMP90041 Semester2 2019\
 Chuang Wang LinkedIn:https://www.linkedin.com/in/chuangw
 ### **Course Info**
 ---
-For more information, please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90041) for the subject.
+The aims for this subject is for students to develop an understanding of approaches to solving moderately complex problems with computers, and to be able to demonstrate proficiency in designing and writing programs. The programming language used is Java.\
+Please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90041) for more information about the subject.
 ### **Contents**
 ---
 
