@@ -3,7 +3,7 @@
  * @author Chuang Wang
  * @institution University of Melbourne
  */
-public class WspSolution {
+public class HwkSolution {
     public static void main(String[] args) {
         String print_line = "";
         for (int i = 0; i <= 10; i++) {
