@@ -18,14 +18,13 @@ For more information about the course, please check the [handbook](https://handb
 | [Tutorial 2](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%202/comp90041_tute2.pdf) | Data Types & Input/Output | 12 Aug 2019 - 16 Aug 2019
 | [Tutorial 3](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%203/comp90041_tute3.pdf) | Flow of Control | 19 Aug 2019 - 23 Aug 2019
 | [Tutorial 4](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%204/comp90041_tute4.pdf) | The Anatomy of Classes & Methods | 26 Aug 2019 - 30 Aug 2019
-| [Tutorial 5]() | TBD |
-| [Tutorial 6]() | TBD |
-| [Tutorial 7]() | TBD |
-| [Tutorial 8]() | TBD |
-| [Tutorial 9]() | TBD |
-| [Tutorial 10]() | TBD |
-| [Tutorial 11]() | TBD |
-| [Tutorial 12]() | TBD |
+| [Tutorial 5]() | TBD | 2 Sep 2019 - 6 Sep 2019
+| [Tutorial 6]() | TBD | 9 Sep 2019 - 13 Sep 2019
+| [Tutorial 7]() | TBD | 16 Sep 2019 - 20 Sep 2019
+| [Tutorial 8]() | TBD | 23 Sep 2019 - 27 Sep 2019
+| [Tutorial 9]() | TBD | 7 Oct 2019 - 11 Oct 2019
+| [Tutorial 10]() | TBD | 14 Oct 2019 - 18 Oct 2019
+| [Tutorial 11]() | TBD | 21 Oct 2019 - 25 Oct 2019
 
 ### **Notes**
 ---
