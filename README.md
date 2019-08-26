@@ -17,7 +17,7 @@ For more information about the course, please check the [handbook](https://handb
 | [Tutorial 1](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/comp90041_tute1Slides.pdf) | Setting up environment and Programming Practice  | 5 Aug 2019 - 9 Aug 2019
 | [Tutorial 2](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/comp90041_tute2.pdf) | Data Types & Input/Output | 12 Aug 2019 - 16 Aug 2019
 | [Tutorial 3](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/comp90041_tute3.pdf) | Flow of Control | 19 Aug 2019 - 23 Aug 2019
-| [Tutorial 4]() | TBD |
+| [Tutorial 4](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/comp90041_tute4.pdf) | The Anatomy of Classes & Methods | 26 Aug 2019 - 30 Aug 2019
 | [Tutorial 5]() | TBD |
 | [Tutorial 6]() | TBD |
 | [Tutorial 7]() | TBD |
