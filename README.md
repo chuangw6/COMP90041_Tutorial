@@ -19,7 +19,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90
 | [Tutorial 2](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%202/comp90041_tute2.pdf) | Data Types & Input/Output | 12 Aug 2019 - 16 Aug 2019
 | [Tutorial 3](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%203/comp90041_tute3.pdf) | Flow of Control | 19 Aug 2019 - 23 Aug 2019
 | [Tutorial 4](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%204/comp90041_tute4.pdf) | The Anatomy of Classes & Methods | 26 Aug 2019 - 30 Aug 2019
-| [Tutorial 5]() | TBD | 2 Sep 2019 - 6 Sep 2019
+| [Tutorial 5](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%205/comp90041_tute5.pdf) | The Anatomy of Classes & Methods(cont.) | 2 Sep 2019 - 6 Sep 2019
 | [Tutorial 6]() | TBD | 9 Sep 2019 - 13 Sep 2019
 | [Tutorial 7]() | TBD | 16 Sep 2019 - 20 Sep 2019
 | [Tutorial 8]() | TBD | 23 Sep 2019 - 27 Sep 2019
