@@ -5,18 +5,16 @@ package tute5;
  * @institution University of Melbourne
  */
 public class Character {
-    private String characterName;
-    private String actorName;
-    private int rating;
-    private String movieName;
-    private Movie movie;
+    private final String characterName;
+    private final String actorName;
+    private final int rating;
+    private final String movieName;
 
-    public Character(String characterName, String actorName, Movie movie) {
+    public Character(String characterName, String actorName, int rating, String movieName) {
         this.characterName = characterName;
         this.actorName = actorName;
-        this.movie = movie;
-        this.rating = movie.getRank();
-        this.movieName = movie.getTitle();
+        this.rating = rating;
+        this.movieName = movieName;
     }
 
     public String getCharacterName() {
@@ -35,7 +33,5 @@ public class Character {
         return movieName;
     }
 
-    public Movie getMovie() {
-        return movie;
-    }
+
 }

@@ -1,20 +1,20 @@
 package tute5;
 
-import java.util.Objects;
-
 /**
  * @author Chuang Wang
  * @institution University of Melbourne
  */
 public class Movie {
-    private String title;
-    private int rank;
-    private int runTime;
+    private final String title;
+    private final int rank;
+    private final int runTime;
+    private final Character mainChar;
 
-    public Movie(String title, int rank, int runTime) {
+    public Movie(String title, int rank, int runTime, Character mainChar) {
         this.title = title;
         this.rank = rank;
         this.runTime = runTime;
+        this.mainChar = mainChar;
     }
 
     public String getTitle() {
@@ -29,31 +29,34 @@ public class Movie {
         return runTime;
     }
 
-    @Override
+    public Character getMainChar() {
+        return mainChar;
+    }
+
+    public boolean equals(Movie movie) {
+        return this.title.equals(movie.title) &&
+                this.rank == movie.rank &&
+                this.runTime == movie.runTime;
+    }
+
     public String toString() {
         return rank + ". " + title;
     }
 
-//    public boolean equals(Movie otherMovie) {
-//        return this.title.equals(otherMovie.title) &&
-//                this.rank == otherMovie.rank &&
-//                this.runTime == otherMovie.runTime;
+//    @Override
+//    public boolean equals(Object o) {
+//        if (this == o)
+//            return true;
+//        if (o == null || getClass() != o.getClass())
+//            return false;
+//        Movie movie = (Movie) o;
+//        return rank == movie.rank &&
+//                runTime == movie.runTime &&
+//                Objects.equals(title, movie.title);
 //    }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o)
-            return true;
-        if (o == null || getClass() != o.getClass())
-            return false;
-        Movie movie = (Movie) o;
-        return rank == movie.rank &&
-                runTime == movie.runTime &&
-                Objects.equals(title, movie.title);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(title, rank, runTime);
-    }
+//
+//    @Override
+//    public int hashCode() {
+//        return Objects.hash(title, rank, runTime);
+//    }
 }
