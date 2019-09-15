@@ -21,7 +21,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90
 | [Tutorial 4](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%204/comp90041_tute4.pdf) | The Anatomy of Classes & Methods(Intro) | 26 Aug 2019 - 30 Aug 2019
 | [Tutorial 5](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%205/comp90041_tute5.pdf) | The Anatomy of Classes & Methods(Immutable Objects) | 2 Sep 2019 - 6 Sep 2019
 | [Tutorial 6](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%206/comp90041_tute6.pdf) | The Anatomy of Classes & Methods(Mutable Objects) | 9 Sep 2019 - 13 Sep 2019
-| [Tutorial 7]() | TBD | 16 Sep 2019 - 20 Sep 2019
+| [Tutorial 7](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%207/comp90041_tute7.pdf) | Arrays | 16 Sep 2019 - 20 Sep 2019
 | [Tutorial 8]() | TBD | 23 Sep 2019 - 27 Sep 2019
 | [Tutorial 9]() | TBD | 7 Oct 2019 - 11 Oct 2019
 | [Tutorial 10]() | TBD | 14 Oct 2019 - 18 Oct 2019
