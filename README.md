@@ -46,4 +46,4 @@ The aims for this subject is for students to develop an understanding of approac
 
 ### **License**
 ---
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/LICENSE)
