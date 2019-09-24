@@ -33,7 +33,7 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90
 
 ### **Resources**
 ---
- - [A list of articles, blogs and books you might find useful](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/resources/readings.md)
+ - [A list of articles, blogs and books you might find useful! :thumbsup:](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/resources/readings.md)
  - [Week 1 - 6 Checklist](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/resources/COMP90041%20Week1%20-%206%20Summary.pdf)
 
 ### **Notes**

@@ -1,5 +1,5 @@
 
-# A list of articles, blogs and books you might find useful
+# A list of articles, blogs and books you might find useful :thumbsup:
 
 ### **1. Always override `hashCode` when you override `equals`**
 ---
@@ -38,7 +38,7 @@
 
 ### **Author**
 ---
-The reading list is cerated by Chuang Wang, tutor for COMP90041 Semester2 2019\
+The reading list is collected by Chuang Wang, tutor for COMP90041 Semester2 2019\
 Chuang Wang LinkedIn:https://www.linkedin.com/in/chuangw
 
 
