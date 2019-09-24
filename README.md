@@ -7,7 +7,6 @@ This repository contains tutorial slides and lab sample solutions of the subject
 ### **:running:Author**
 ---
 The slides and materials are developed by Chuang Wang, tutor for COMP90041 Semester2 2019\
-LinkedIn:https://www.linkedin.com/in/chuangw
 
 ### **:clipboard:Course Info**
 ---
@@ -38,9 +37,12 @@ The aims for this subject is for students to develop an understanding of approac
 ### **:page_facing_up:Notes**
 ---
 >Feedbacks and comments are more than welcome!\
->Please contact the author via :e-mail:: chuangw1@unimelb.edu.au\
->Thanks a lot!
+>Please contact the author. Thanks a lot!
 
+## Contact Info
+---
+- :e-mail:: _chuangw1@unimelb.edu.au_
+- [_LinkedIn_](https://www.linkedin.com/in/chuangw)
 
 ### **License**
 ---
