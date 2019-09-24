@@ -6,7 +6,7 @@ This repository contains tutorial slides and lab sample solutions of the subject
 
 ### **:running:Author**
 ---
-The slides and materials are developed by Chuang Wang, tutor for COMP90041 Semester2 2019\
+The slides and materials are developed by Chuang Wang, tutor for COMP90041 Semester2 2019
 
 ### **:clipboard:Course Info**
 ---
@@ -29,7 +29,7 @@ The aims for this subject is for students to develop an understanding of approac
 | [Tutorial 10]() | TBD | 14 Oct 2019 - 18 Oct 2019
 | [Tutorial 11]() | TBD | 21 Oct 2019 - 25 Oct 2019
 
-### **:books:Resources**
+### **:file_folder:Resources**
 ---
  - [A list of articles, blogs and books you might find useful! :thumbsup:](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/resources/readings.md)
  - [Week 1 - 6 Checklist](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/resources/COMP90041%20Week1%20-%206%20Summary.pdf)
@@ -39,11 +39,11 @@ The aims for this subject is for students to develop an understanding of approac
 >Feedbacks and comments are more than welcome!\
 >Please contact the author. Thanks a lot!
 
-## Contact Info
+## **:email: Contact Info**
 ---
 - :e-mail:: _chuangw1@unimelb.edu.au_
 - [_LinkedIn_](https://www.linkedin.com/in/chuangw)
 
 ### **License**
 ---
-MIT
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
