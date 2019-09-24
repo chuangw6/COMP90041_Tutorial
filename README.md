@@ -7,7 +7,7 @@ This repository contains tutorial slides and lab sample solutions of the subject
 ### **:running:Author**
 ---
 The slides and materials are developed by Chuang Wang, tutor for COMP90041 Semester2 2019\
-Chuang Wang LinkedIn:https://www.linkedin.com/in/chuangw
+LinkedIn:https://www.linkedin.com/in/chuangw
 
 ### **:clipboard:Course Info**
 ---
