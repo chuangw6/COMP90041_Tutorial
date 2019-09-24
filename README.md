@@ -39,7 +39,7 @@ The aims for this subject is for students to develop an understanding of approac
 >Feedbacks and comments are more than welcome!\
 >Please contact the author. Thanks a lot!
 
-## **:email: Contact Info**
+### **:email: Contact Info**
 ---
 - :e-mail:: _chuangw1@unimelb.edu.au_
 - [_LinkedIn_](https://www.linkedin.com/in/chuangw)
