@@ -11,8 +11,7 @@ LinkedIn:https://www.linkedin.com/in/chuangw
 
 ### **:clipboard:Course Info**
 ---
-The aims for this subject is for students to develop an understanding of approaches to solving moderately complex problems with computers, and to be able to demonstrate proficiency in designing and writing programs. The programming language used is Java.\
-Please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90041) for more information about the subject.
+The aims for this subject is for students to develop an understanding of approaches to solving moderately complex problems with computers, and to be able to demonstrate proficiency in designing and writing programs. The programming language used is Java. Please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90041) for more information about the subject.
 
 ### **:bookmark_tabs:Contents**
 ---
