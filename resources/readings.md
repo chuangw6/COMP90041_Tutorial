@@ -1,5 +1,5 @@
 
-# A list of articles, blogs and books you might find usefule
+# A list of articles, blogs and books you might find useful
 
 ### **1. Always override `hashCode` when you override `equals`**
 ---
