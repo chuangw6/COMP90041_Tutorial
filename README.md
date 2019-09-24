@@ -4,7 +4,7 @@
 ---
 This repository contains tutorial slides and lab sample solutions of the subject [COMP90041](https://handbook.unimelb.edu.au/2019/subjects/comp90041) Semester2 2019 given by Dr Thomas Christy at [University of Melbourne](https://www.unimelb.edu.au/). The repo also contains a list of resources useful for a Java beginner.
 
-### **:person_with_blond_hair:Author**
+### **:running:Author**
 ---
 The slides are developed by Chuang Wang, tutor for COMP90041 Semester2 2019\
 Chuang Wang LinkedIn:https://www.linkedin.com/in/chuangw
@@ -43,6 +43,6 @@ Please check the [handbook](https://handbook.unimelb.edu.au/2019/subjects/comp90
 >Thanks a lot!
 
 
-### **:school: License**
+### **License**
 ---
 MIT
