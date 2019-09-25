@@ -2,13 +2,16 @@
 # A list of articles, blogs and books you might find useful :thumbsup:
 # **Table of Contents**
 
-- [**1. Always override `hashCode` when you override `equals`**](#1-always-override--hashcode--when-you-override--equals)
+- [**1. Always override `hashCode` when you override `equals`**](#1-always-override-hashcode-when-you-override-equals)
 - [**2. Java Arrays**](#2-java-arrays)
 - [**3. Java String**](#3-java-string)
 - [**4. Common data structure**](#4-common-data-structure)
 - [**5. UML**](#5-uml)
-- [**6. Primitive type & Reference type**](#6-Primitive-type-&-Reference-type)
+- [**6. Primitive type & Reference type**](#6-primitive-type--reference-type)
 - [**7. Terminate a function VS Terminate the program**](#7-terminate-a-function-vs-terminate-the-program)
+
+
+
 
 # **Start here**  
 ### **1. Always override `hashCode` when you override `equals`**
