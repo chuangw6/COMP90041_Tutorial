@@ -37,7 +37,7 @@
  - [Is Java “pass-by-reference” or “pass-by-value”?](https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value)
 
 ### **7. Terminate a function VS Terminate the program**
-
+---
  - `return;` statement is used inside a method to come out of it. It returns from the function to its caller and the program continues running.
  - `System.exit();` terminates the program; control does not return to the caller.
 	 - System.exit(0) is used in any method to come out of program. System.exit(0) terminates the program **normally**.
