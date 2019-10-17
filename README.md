@@ -15,7 +15,7 @@ The aims for this subject is for students to develop an understanding of approac
 ### **:bookmark_tabs:Contents**
 ---
 
-| Tutorial | Topic | Time |
+| Tutorial | Topic | Date |
 | ------ | ------ |-----|
 | [Tutorial 1](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%201/comp90041_tute1Slides.pdf) | `Setting up environment and Programming Practice`  | 5 Aug 2019 - 9 Aug 2019
 | [Tutorial 2](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%202/comp90041_tute2.pdf) | `Data Types & Input/Output` | 12 Aug 2019 - 16 Aug 2019
