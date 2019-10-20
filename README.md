@@ -27,7 +27,7 @@ The aims for this subject is for students to develop an understanding of approac
 | [Tutorial 8](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%208/comp90041_tute8.pdf) | `Inheritance` | 23 Sep 2019 - 27 Sep 2019
 | [Tutorial 9](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%209/comp90041_tute9.pdf) | `Abstract class & Interfaces` | 7 Oct 2019 - 11 Oct 2019
 | [Tutorial 10](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%2010/comp90041_tute10.pdf) | `Exception handling and Errors` | 14 Oct 2019 - 18 Oct 2019
-| [Tutorial 11]() | `Generic Types` | 21 Oct 2019 - 25 Oct 2019
+| [Tutorial 11](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/tutorial%2011/comp90041_tute11.pdf) | `Generics and ArrayList` | 21 Oct 2019 - 25 Oct 2019
 
 ### **:file_folder:Resources**
 ---
