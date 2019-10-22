@@ -9,28 +9,28 @@ import java.util.Scanner;
  * @author Chuang Wang
  * @institution University of Melbourne
  */
-public class Tute11 {
-    public static void main(String[] args) {
-        List<String> friends = new ArrayList<>();
+public class Tute11Solution2 {
+    private static List<String> friends = new ArrayList<>();
+    private static Scanner keyboard = new Scanner(System.in);
 
-        Scanner keyboard = new Scanner(System.in);
+    public static void main(String[] args) {
+
         System.out.println("Which action would you like to perform?");
         System.out.println("Type E for enter names");
         System.out.println("Type D for delete a name");
         System.out.println("Type Q for quit");
 
-        getOption(keyboard, friends);
+        getOption();
 
     }
 
-    private static void getOption(Scanner keyboard, List<String> friends) {
-
+    private static void getOption() {
         while (true){
             String s = keyboard.nextLine();
             if (s.equalsIgnoreCase("e")) {
-                addNames(keyboard, friends);
+                addNames();
             } else if (s.equalsIgnoreCase("d")) {
-                deleteName(keyboard, friends);
+                deleteName();
             } else if (s.equalsIgnoreCase("q")) {
                 System.exit(0);
             } else {
@@ -39,7 +39,7 @@ public class Tute11 {
         }
     }
 
-    private static void addNames(Scanner keyboard, List<String> friends) {
+    private static void addNames() {
         System.out.println("please type names and type a blank line to terminate");
         String name = keyboard.nextLine();
         while (!name.isEmpty()){
@@ -55,7 +55,7 @@ public class Tute11 {
         System.out.println("next action to perform");
     }
 
-    private static void deleteName(Scanner keyboard, List<String> friends) {
+    private static void deleteName() {
         if (friends.size() == 0) {
             System.out.println("nothing to delete. please try to take another action");
         } else {
@@ -79,5 +79,4 @@ public class Tute11 {
 
         System.out.println("next action to perform");
     }
-
 }
