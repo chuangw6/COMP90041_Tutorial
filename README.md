@@ -2,7 +2,7 @@
 
 ### **:point_right:Purpose**
 ---
-This repository contains tutorial slides and lab sample solutions of the subject [COMP90041](https://handbook.unimelb.edu.au/2019/subjects/comp90041) Semester2 2019 given by Dr Thomas Christy at [University of Melbourne](https://www.unimelb.edu.au/). The repo also contains a list of resources useful for a Java beginner.
+This repository contains tutorial slides and lab sample solutions of the subject [COMP90041](https://handbook.unimelb.edu.au/2019/subjects/comp90041) Semester2 2019 given by Dr Thomas Christy at [University of Melbourne](https://www.unimelb.edu.au/). The repo also contains a list of useful resources for Java beginners.
 
 ### **:running:Author**
 ---
