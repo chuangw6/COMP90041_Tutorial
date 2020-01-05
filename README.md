@@ -37,7 +37,7 @@ The aims for this subject is for students to develop an understanding of approac
 ### **:page_facing_up:Notes**
 ---
 >Feedbacks and comments are more than welcome!\
->Please contact the author. Thanks a lot!\
+>Please contact the author. Thanks a lot!
 
 *The following comments on my teaching are from my students*
 ![](https://github.com/chuangw46/COMP90041_Tutorial/blob/master/resources/Student%20Feedback.png)
